@@ -1,9 +1,6 @@
 import random
-import time
 import requests
 import os
-import ctypes
-from tkinter import filedialog
 from os import path
 from pathlib import Path
 import pathlib
